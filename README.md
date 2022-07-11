@@ -4,7 +4,7 @@ _Draft mode_
 
 The computer science is a really wide domain, but the focus for somebody new to it should be on only 2 things: to learn about algorithmic thinking and to learn about the different tools. By algorithmic thinking I am reffering to the ability to solve problems and, with the help of the tools, like programming languages, libraries and frameworks to create a solution for those problems. With this series of articles I will try to provide gentle introduction for people new to computer science and programming. My focus will be to use a programming language to explain algorithm design and to lay down a roadmap for things to evolve in the future in terms of learning.
 
-The way I was introduced to computer science more than 10 years ago I find it very intimidating and very time consuming. I am very glad for learning computer science this way, but not all people have access to 
+The way I was introduced to computer science more than 10 years ago I find it very intimidating and very time consuming. I am very glad for learning computer science this way, but not all people have access to ... _To be continued_
 
 ## Brainstorm
 
